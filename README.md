@@ -37,7 +37,7 @@ Graph anomaly detection (GAD) has attracted increasing attention in machine lear
 </div>
 
 <div  align="center">    
-    Figure 1: Overall framework of GRADATE.
+    Figure 1: Overall framework of NLGAD.
 </div>
 
 
@@ -60,10 +60,11 @@ python run.py
 If you find this project useful for your research, please cite your paper with the following BibTeX entry.
 
 ```
-@inproceedings{GRADATE,
-  title={Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View},
-  author={Duan, Jingcan and Wang, Siwei and Zhang, Pei and Zhu, En and Hu, Jingtao and Jin, Hu and Liu, Yue and Dong, Zhibin},
-  booktitle={Proc. of AAAI},
+@inproceedings{NLGAD,
+  title={Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning},
+  author={Duan, Jingcan and Zhang, Pei and Wang, Siwei and Hu, Jingtao and Jin, Hu and Zhang, Jiaxin and Zhou, Haifang and Liu, Xinwang},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={7502--7511},
   year={2023}
 }
 ```
