@@ -18,7 +18,6 @@
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
 
 
 An official source code for paper "Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning", accepted by ACM MM 2023. Any communications or issues are welcomed. Please contact jingcan_duan@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. :heart:
@@ -33,7 +32,7 @@ Graph anomaly detection (GAD) has attracted increasing attention in machine lear
 
 
 <div  align="center">    
-    <img src="./assets/framework.png" width=80%/>
+    <img src="./assets/framework.jpg" width=80%/>
 </div>
 
 <div  align="center">    
