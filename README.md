@@ -42,7 +42,7 @@ Graph anomaly detection (GAD) has attracted increasing attention in machine lear
 
 ### Requirements
 
-The proposed GRADATE is implemented with python 3.7 on a NVIDIA 3070 GPU. 
+The proposed NLGAD is implemented with python 3.7 on a NVIDIA 3070 GPU. 
 
 Python package information is summarized in **requirements.txt**:
 
